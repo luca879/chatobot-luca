@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- CLAVE DE API DE GOOGLE AI STUDIO ---
     // ¡IMPORTANTE! Reemplaza 'TU_API_KEY_DE_GOOGLE_AI_STUDIO' con tu clave real.
-    const API_KEY = 'TU_API_KEY_DE_GOOGLE_AI_STUDIO';
+    const API_KEY = 'AIzaSyDqwJsasq6ISGoiBlthj13UH8mDekE5Bxo';
     const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${API_KEY}`;
 
     // --- BASE DE CONOCIMIENTO (La información sobre Luca) ---
